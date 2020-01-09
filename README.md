@@ -1,7 +1,7 @@
 # RecitationSession
 Server Side - php, db, html
 
-This website demonstrates the use of PHP, HTML, and CRUD using SQLite.  Permissions were set based on user roles to limit modification of the database.  Laravel framework was used to build controllers, and organize view files.  Confirmation and alert messages are displayed in response to user actions.
+The purpose of this site is to manage courses, majors, students, instructors, and roles.  This website demonstrates the use of PHP, HTML, and CRUD using SQLite.  Permissions were set based on user roles to limit modification of the database.  Depending on the permission level, users can create courses, majors, and roles, and then assign across fields, such as assigning a teacher to a course.  Laravel framework was used to build controllers, and organize view files.  Confirmation and alert messages are displayed in response to user actions.
 
 ## Getting Started
 * Clone the repo: `git clone https://github.com/erinlorelle/RecitationSession`
