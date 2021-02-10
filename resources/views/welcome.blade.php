@@ -13,6 +13,7 @@
                         <li>Includes associations between fields at a quick glance</li>
                         <li>Add, update, and delete data for easy data management</li>
                         <li>Additional reports allow more in-depth viewing</li>
+                        <li>A cool fancy line item</li>
                     </ul><br>
                     <p class="lead">Browse data by clicking on the navigation links at the top.</p>
                     <ul>
